@@ -2,8 +2,6 @@
 
 # Build a Security Monitoring System
 
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-security-monitoring)
-
 **Author:** Gustavo Balaguera  
 **Email:** gustavobalaguera214@gmail.com
 
@@ -159,11 +157,5 @@ I checked the CloudWatch console and confirmed that my Secret is accessed alarm 
 I received an email notification from AWS SNS with the subject "ALARM: SecretIsAccessedAlarm", confirming that the monitoring system successfully alerted me to the secret access event. 
 
 ![Image](http://learn.nextwork.org/authentic_brown_happy_nectarine/uploads/aws-security-monitoring_ageraergearge)
-
----
-
-## Comparing CloudWatch with CloudTrail Notifications
-
----
 
 ---
